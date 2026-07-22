@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Financial Engineering at [Xiamen University].
+I am a PhD student in Financial Engineering at Xiamen University.
 
 My research interests include financial econometrics, multivariate volatility
 and dependence modeling, heavy-tailed and skewed distributions.
